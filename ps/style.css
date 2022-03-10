@@ -17,7 +17,7 @@ body {
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-	background: url("bg.jpeg") no-repeat fixed center;
+	background-color: white;
 	background-size: cover;
 }
 
@@ -27,7 +27,7 @@ body {
 }
 
 .black {
-	background-color: black;
+	background-color: #49ADED;
 	padding: 10px;
 	text-align: center;
 	border-radius: 20px;
@@ -44,7 +44,7 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #f7ce6a;
+	background-color: yellow;
 	outline: none;
 	color: black;
 	text-decoration: none;
